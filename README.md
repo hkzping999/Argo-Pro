@@ -1,10 +1,10 @@
 # Argo-Pro
 
-Argo-Pro 是一个 Argo / Xray / VLESS PQC / Reality / XHTTP / HTTPUpgrade 自动化部署项目。
+Argo-Pro  Argo / Xray / VLESS PQC / Reality / XHTTP / HTTPUpgrade 
 
 ## 推荐部署方式
 
-不要直接执行大型 `argox.sh` 的 Raw 链接。推荐执行小型启动器 `install.sh`：
+推荐执行小型启动器 `install.sh`：
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/hkzping999/Argo-Pro/main/install.sh)
